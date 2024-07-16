@@ -21,6 +21,26 @@ Here are some ideas to get you started:
 
 ###
 
+<h2 align="left">Experience</h2>
+
+###
+
+<h4 align="left">Keo World (2021 - Now) - Front End Developer</h4>
+
+###
+
+<h4 align="left">Konrad Lorenz (2019-2021 - Research assistant & Software engineer</h4>
+
+###
+
+<h4 align="left">Pinturas Infinity (2021) - Intern software engineer</h4>
+
+###
+
+<h4 align="left">Chiper (2018) - Backend Developer</h4>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -58,24 +78,3 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app?username=AlejandroTarazona&theme=gruvbox&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<h2 align="left">Experience</h2>
-
-###
-
-<h4 align="left">Keo World (2021 - Now) - Front End Developer</h4>
-
-###
-
-<h4 align="left">Konrad Lorenz (2019-2021 - Research assistant & Software engineer</h4>
-
-###
-
-<h4 align="left">Pinturas Infinity (2021) - Intern software engineer</h4>
-
-###
-
-<h4 align="left">Chiper (2018) - Backend Developer</h4>
-
-###
