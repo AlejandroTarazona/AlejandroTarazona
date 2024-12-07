@@ -20,7 +20,7 @@ My focus on innovation and continuous improvement has enabled KEO to remain at t
 
 ###
 
-<h3 align="left">Konrad Lorenz (2019-2021 - Research assistant & Software engineer</h3>
+<h3 align="left">Konrad Lorenz (2019-2021) - Research assistant & Software engineer</h3>
 
 As a Research Assistant, I played a key role in the development and implementation of a web application focused on adaptive learning, designed to enhance the educational experience for students in discrete mathematics. This system identified the areas where each student faced the most challenges, offering a personalized curriculum tailored to their learning preferences.
 
